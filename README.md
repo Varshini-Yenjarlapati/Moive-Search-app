@@ -21,7 +21,7 @@ Deployed on **Vercel** for fast and seamless hosting.
 ## ✨ Features
 
 - 🔍 **Instant Search** — Find movies by title in real time using the TMDB API  
-- 🔥 **Trending Movies** — View what’s popular right now  
+- 🔥 **Trending Movies** — View what’s popular right now based on the searches
 - 📊 **Appwrite Integration** — Tracks search activity with a lightweight backend  
 - ⚡ **Blazing Fast** — Built with Vite for lightning-fast development and builds  
 - 🎨 **Responsive Design** — Styled with Tailwind CSS 4 for all screen sizes  
